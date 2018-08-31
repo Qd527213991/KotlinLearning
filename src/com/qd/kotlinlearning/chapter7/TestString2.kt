@@ -97,6 +97,14 @@ fun main(args: Array<String>) {
     println("当前日期:${dateNow.year+1900}.${dateNow.month}.${dateNow.day}")
 
 
+    /**
+     * 四、字符串查找
+     * 在String类中提供了indexOf和lastIndexOf函数用于查找字符或字符。indexOf函数从前往后查找字符或字符串，返回第一次找到字符或字符串所在处的索引，没有找到返回-1。
+     * lastIndexOf函数从后往前查找字符或字符串，返回第一次找到字符或字符串所在处的索引，没有找到返回-1。
+     * 默认情况下，是不忽略大小写的
+     */
+
+
 
     val sourceStr = "There is a string accessing example."
     val len = sourceStr.length //获得字符串长度
@@ -123,6 +131,48 @@ fun main(args: Array<String>) {
     println("从索引为15位置开始，从后往前查找e字符，第一次找到它所在索引:$lastChar2")
     println("从索引为5位置开始，从前往后查找ing字符串，第一次找到它所在索引:$firstStr2")
     println("从索引为5位置开始，从后往前查找ing字符串，第一次找到它所在索引:$lastStr2")
+
+    /**
+     * 五、字符串比较
+     * 字符串比较是常见的操作，包括比较相等、比较大小、比较前缀和后缀等。
+     */
+
+    //TODO:比较相等：在字符串比较时默认是比较两个字符串中内容是否相等，使用equals函数、==运算符和!=运算符进行比较，事实上==和!=运算符在底层还是调用equals函数进比较的。
+
+    val as1="HaHa"
+    val as2="haha"
+    println("是否相等（不忽略大小写）:${as1.equals(as2,false)}")
+    println("是否相等（忽略大小写）:${as1.equals(as2,true)}")
+
+    //TODO:比较大小：String提供的比较大小的函数是compareTo。compareTo函数按字典顺序比较两个字符串。如果当前字符串等于参数字符串，则返回值 0；如果当前字符串位于参数字符串之前，则返回一个小于 0 的值；如果当前字符串位于参数字符串之后，则返回一个大于 0 的值。
+    val  as3="aaa"
+    val  as4="BBB"
+    val as5="AAA"
+    println("比较大小(不忽略大小写):${as3.equals(as5,false)}")
+    println("比较大小（忽略大小写）:${as3.equals(as5,true)}")
+    println("比较俩不相同的串:${as3.equals(as4,false)}")
+
+    //TODO:比较前缀和后缀 startsWith函数是测试此字符串是否以指定的前缀开始。 endsWith函数是测试此字符串是否以指定的后缀结束。
+    val url="Https://www.baidu.com"
+    println("是否以https开头(不忽略大小写):${url.startsWith("https")}")
+    println("是否以https开头(忽略大小写):${url.startsWith("https",true)}")
+    println("是否以com结尾(不忽略大小写):${url.endsWith("com")}")
+    println("是否以com结尾(忽略大小写):${url.endsWith("com",true)}")
+
+    /**
+     * 六、字符串截取
+     * 字符串截取有三个版本:
+     * (1) 指定整数区间截取字符串函数：String.substring(range: IntRange): String
+     * (2) 从指定索引startIndex开始截取一直到字符串结束的子字符串：fun String.substring(startIndex: Int): String
+     * (3) 从指定索引startIndex开始截取直到索引endIndex - 1处的字符，注意包括索引为startIndex处的字符，但不包括索引为endIndex处的字符：fun String.substring(startIndex: Int, endIndex: Int): String
+     */
+
+
+    val st="This is why we play?"
+    println("从串中挑出的字符:${st.substring(3..9)}")
+    println("从第三个字符截取字符串:${st.substring(2)}")
+    println("截取4到9的对应的字符串:${st.substring(3,9)}")
+
 
 }
 
