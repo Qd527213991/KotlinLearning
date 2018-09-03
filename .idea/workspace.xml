@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f1744dc-4ea3-46ab-97f5-40cf22613a12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString2.kt" afterDir="false" />
-    </list>
+    <list default="true" id="7f1744dc-4ea3-46ab-97f5-40cf22613a12" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,32 +16,33 @@
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.118" value="1" />
+          <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="12" />
+          <entry key="kt" value="15" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="12" />
+          <entry key="Kotlin" value="15" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="4384" />
+          <entry key="kt" value="4525" />
           <entry key="md" value="210" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="4384" />
+          <entry key="Kotlin" value="4525" />
           <entry key="Markdown" value="210" />
         </counts>
       </usages-collector>
@@ -56,67 +54,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/User.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+            <state relative-caret-position="247">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDataClass.kt">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-403">
-              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+            <state relative-caret-position="475">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -149,6 +99,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/User.kt" />
         <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDataClass.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc2.kt" />
       </list>
     </option>
   </component>
@@ -170,9 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,18 +145,21 @@
               <item name="KotlinLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kotlinlearning" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535695037688" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535968978334" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -231,7 +183,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.qd.kotlinlearning.chapter11.TestDataClassKt">
+  <component name="RunManager" selected="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc2Kt">
+    <configuration name="com.qd.kotlinlearning.chapter10.TestFunc2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinLearning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.qd.kotlinlearning.chapter11.TestDataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLearning" />
       <option name="VM_PARAMETERS" />
@@ -240,19 +205,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter11.TestDataClassKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.qd.kotlinlearning.chapter7.TestString1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLearning" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter7.TestString1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -298,19 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString1Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString2Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString3Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString4Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDataClassKt" />
+      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDataClassKt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString4Kt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString3Kt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString2Kt" />
-        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter7.TestString1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -328,11 +280,12 @@
       <workItem from="1535526940407" duration="2172000" />
       <workItem from="1535621051529" duration="6107000" />
       <workItem from="1535678443038" duration="9834000" />
+      <workItem from="1535967949791" duration="817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19412000" />
+    <option name="totallyTimeSpent" value="20229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,7 +300,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1673774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,10 +341,34 @@
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/KotlinLearning1.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/KotlinTest1.kt" />
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/KotlinLearning.kt" />
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString2.kt">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="304">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/User.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="174" lean-forward="true" selection-start-line="174" selection-end-line="174" />
+        <state relative-caret-position="38">
+          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -402,41 +379,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString3.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter7/TestString4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-403">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/User.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="3306">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDataClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="682">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
         </state>
       </provider>
     </entry>
