@@ -1,5 +1,7 @@
 package com.qd.kotlinlearning.chapter11
 
+import com.qd.kotlinlearning.chapter11.defined_classes.User
+
 fun main(args: Array<String>) {
 
     //创建User对象

@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f1744dc-4ea3-46ab-97f5-40cf22613a12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/META-INF/KotlinLearning.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/META-INF/KotlinLearning.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/TestDataClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/TestDataClassKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDataClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,24 +18,26 @@
     <session id="1128363971">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="kt" value="4" />
+          <entry key="java" value="1" />
+          <entry key="kt" value="13" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Kotlin" value="4" />
+          <entry key="JAVA" value="1" />
+          <entry key="Kotlin" value="13" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="457" />
+          <entry key="kt" value="1245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="457" />
+          <entry key="Kotlin" value="1245" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -46,56 +49,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-104">
-              <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc4.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc5.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
@@ -104,11 +57,86 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc6.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Animal.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="371">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDefinedClass.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding>
+                <element signature="e#41#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Employee.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Teacher.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestClassAttribute.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -133,6 +161,15 @@
         <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc4.kt" />
         <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc5.kt" />
         <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc6.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Animal.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDefinedClass.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestClassAttribute.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Employee.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User2.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Teacher.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes.kt" />
+        <option value="$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes2.kt" />
       </list>
     </option>
   </component>
@@ -177,6 +214,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kotlinlearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlinlearning" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter11" type="462c0819:PsiDirectoryNode" />
+              <item name="defined_classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -187,7 +239,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536045479371" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536052463200" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.qd.kotlinlearning.chapter11.defined_classes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,33 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc6Kt">
-    <configuration name="com.qd.kotlinlearning.chapter10.TestFunc2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLearning" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.qd.kotlinlearning.chapter10.TestFunc3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinLearning" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter10.TestFunc3Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.com.qd.kotlinlearning.chapter11.TestServeralAttributes2Kt">
     <configuration name="com.qd.kotlinlearning.chapter10.TestFunc5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLearning" />
       <option name="VM_PARAMETERS" />
@@ -254,33 +285,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.qd.kotlinlearning.chapter11.TestDataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.qd.kotlinlearning.chapter11.TestDefinedClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinLearning" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter11.TestDataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter11.TestDefinedClassKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.qd.kotlinlearning.chapter11.TestServeralAttributes2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinLearning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter11.TestServeralAttributes2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.qd.kotlinlearning.chapter11.TestServeralAttributesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinLearning" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.qd.kotlinlearning.chapter11.TestServeralAttributesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDataClassKt" />
-      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
-      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc3Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc5Kt" />
       <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc6Kt" />
+      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDefinedClassKt" />
+      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestServeralAttributesKt" />
+      <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestServeralAttributes2Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestServeralAttributes2Kt" />
+        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestServeralAttributesKt" />
+        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDefinedClassKt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc6Kt" />
         <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc5Kt" />
-        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc3Kt" />
-        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter10.TestFunc2Kt" />
-        <item itemvalue="Kotlin.com.qd.kotlinlearning.chapter11.TestDataClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -301,17 +358,18 @@
       <workItem from="1535967949791" duration="817000" />
       <workItem from="1536031730965" duration="83000" />
       <workItem from="1536032384430" duration="293000" />
-      <workItem from="1536032798509" duration="6744000" />
+      <workItem from="1536032798509" duration="14333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6439000" />
+    <option name="totallyTimeSpent" value="14028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12473348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -320,7 +378,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37852496" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34815618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,9 +413,16 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc6.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc3.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
+        <state relative-caret-position="589">
           <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
         </state>
       </provider>
@@ -376,10 +441,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc6.kt">
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Animal.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="371">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestClassAttribute.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Employee.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestDefinedClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/User2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/Teacher.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#41#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestServeralAttributes2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
