@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e34847c-9e81-42e7-b3cb-d811dc20b192" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/META-INF/KotlinLearning.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/META-INF/KotlinLearning.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter10/TestFunc2Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/TestDataClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/TestDataClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinLearning/com/qd/kotlinlearning/chapter11/User.class" afterDir="false" />
-    </list>
+    <list default="true" id="4e34847c-9e81-42e7-b3cb-d811dc20b192" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,27 +11,20 @@
     <session id="1128363971">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="xml" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="XML" value="1" />
+          <entry key="Git file" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestEnumClass.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/defined_classes/ClassForNested.kt">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestObjectExpression.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="549">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -87,11 +73,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-171" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -119,13 +121,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -146,11 +155,6 @@
             <path>
               <item name="KotlinLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinLearning" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="KotlinLearning" type="b2602c69:ProjectViewProjectNode" />
@@ -177,7 +181,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536644756629" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536645283364" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,12 +234,12 @@
       <workItem from="1536031730965" duration="83000" />
       <workItem from="1536032384430" duration="293000" />
       <workItem from="1536032798509" duration="14930000" />
-      <workItem from="1536629750693" duration="8958000" />
+      <workItem from="1536629750693" duration="9557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31000" />
+    <option name="totallyTimeSpent" value="630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -274,13 +279,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc6.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -415,20 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestObjectExpression.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestObjectDefined.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -446,15 +430,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1482" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter10/TestFunc1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestObjectDefined.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/qd/kotlinlearning/chapter11/TestObjectExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
